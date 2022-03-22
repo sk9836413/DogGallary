@@ -1,0 +1,25 @@
+.header{
+    background-color: blue;
+    color:bisque;
+    display: flex;
+    justify-content: center;
+    height: 70px;
+     
+
+
+}
+
+.button{
+    height: 40px;
+    background-color: green;
+    color: white;
+    cursor: pointer;
+    position: absolute;
+    right: 70px;
+    top: 15px ;
+   
+    
+  
+   
+
+}

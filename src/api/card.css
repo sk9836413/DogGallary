@@ -1,0 +1,24 @@
+.card-cont{
+    height: 250px;
+    width: 200px;
+    margin-right: 50px;
+    margin-left: 50px ;
+    display: flex;
+    display: inline-block;
+    justify-content: center;
+    margin-top: 50px;
+
+    
+    
+    
+}
+.card{
+    
+    
+    height: 200px;
+    width: 200px;
+    align-items: center;
+    float: left;
+   
+    
+}
